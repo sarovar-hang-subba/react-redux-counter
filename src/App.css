@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  margin-top:20%
+}
+
+.counter .btn {
+  width: 25%;
+  margin-bottom: 1%;
+  background-color: rgb(11, 96, 96);
+  color:white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  
+}
+.counter .by button{
+  width:14%;
+  margin-bottom: 1%;
+  background-color: rgb(11, 96, 96);
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+input {
+  width: 8%;
+  padding: 7px;
+  margin-left: 1%;
+}
+
+
+
+
